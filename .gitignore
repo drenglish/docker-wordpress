@@ -1,0 +1,6 @@
+# uncomment following lines on project standup
+# etc/ssl/
+# data/*
+# .env
+
+*.pem
